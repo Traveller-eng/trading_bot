@@ -1,0 +1,4 @@
+python-binance==1.0.19
+typer[all]>=0.15.0
+python-dotenv==1.0.1
+rich>=13.7.1
